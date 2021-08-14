@@ -4,6 +4,7 @@ public class helloWorld {
         System.out.println("nima");
         System.out.println("mm");
         System.out.println("nimaqusi");
+        System.out.println("master");
 
     }
 }
