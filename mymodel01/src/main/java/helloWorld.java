@@ -3,10 +3,7 @@ public class helloWorld {
         System.out.println("helloworldsfasf");
         System.out.println("nima");
         System.out.println("mm");
-        System.out.println("nimeide");
-        System.out.println("dsdfsdf");
-        int sfssdfa = 1221;
-        System.out.println(sfssdfa);
+        System.out.println("nimaqusi");
 
     }
 }
