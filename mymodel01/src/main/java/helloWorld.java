@@ -7,5 +7,7 @@ public class helloWorld {
         System.out.println("master");
         System.out.println("hot-fix");
         System.out.println("git-pol");
+        int b = 12;
+        int c = 0;
     }
 }
